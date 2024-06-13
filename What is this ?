@@ -1,0 +1,29 @@
+### Projeto de Redes de Computadores
+
+#### Objetivo do Projeto
+O objetivo principal deste projeto é a criação e configuração de um ambiente de redes de computadores, envolvendo quatro redes distintas. Este projeto abrange várias etapas cruciais, desde o cálculo das sub-redes até a configuração de switches e roteadores para garantir uma comunicação eficiente e segura entre todas as redes.
+
+#### Etapas do Projeto
+
+1. **Criação de Quatro Redes Distintas**
+   - Inicialmente, serão definidas quatro redes diferentes que farão parte do nosso ambiente de TI. Cada rede terá um conjunto específico de dispositivos que precisarão se comunicar entre si e com as outras redes.
+
+2. **Cálculo de Sub-redes**
+   - Para otimizar a utilização do espaço de endereçamento IP e aumentar a eficiência da rede, realizaremos o cálculo das sub-redes. Isso incluirá a definição do tamanho das sub-redes, máscaras de sub-rede apropriadas e a atribuição de intervalos de endereços IP para cada sub-rede.
+
+3. **Configuração de Switches**
+   - Os switches serão configurados para cada uma das redes. Isso envolve a definição de VLANs (Virtual Local Area Networks), configuração de portas, e outras definições necessárias para assegurar que o tráfego de rede seja gerenciado de forma eficaz e segura dentro de cada rede e entre as redes.
+
+4. **Configuração de Roteadores**
+   - Os roteadores serão configurados para permitir a comunicação entre as diferentes sub-redes. Isso incluirá a definição de rotas estáticas e/ou dinâmicas, configuração de protocolos de roteamento (como OSPF ou EIGRP), e a implementação de regras de segurança para controlar e monitorar o tráfego entre as redes.
+
+#### Benefícios do Projeto
+
+- **Melhoria na Gestão da Rede:** Ao segmentar a rede em sub-redes menores, é possível melhorar a gestão e a segurança do ambiente de TI.
+- **Maior Segurança:** A configuração adequada de switches e roteadores permitirá a implementação de políticas de segurança, limitando o acesso e protegendo dados sensíveis.
+- **Eficiência na Comunicação:** A correta configuração dos dispositivos de rede garantirá uma comunicação eficiente e rápida entre os diferentes departamentos ou áreas da organização.
+- **Escalabilidade:** Com a estrutura de rede bem definida, será mais fácil expandir e integrar novas redes ou dispositivos no futuro.
+
+#### Conclusão
+
+Este projeto é fundamental para criar uma infraestrutura de rede robusta e eficiente. A criação das quatro redes, o cálculo preciso das sub-redes, e a configuração detalhada dos switches e roteadores são passos essenciais para garantir que todas as áreas da organização possam se comunicar de forma segura e eficaz. Com essa abordagem, estamos preparados para atender às necessidades atuais e futuras de comunicação e conectividade da nossa organização.
